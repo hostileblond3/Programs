@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config date="1629904280015" transient="false">
+	<site updateable="true" url="file:/C:/Users/colvi/.p2/pool/" enabled="true" policy="MANAGED-ONLY">
+		<feature id="org.eclipse.wildwebdeveloper.xml.feature" version="0.10.4.202102250843" url="features/org.eclipse.wildwebdeveloper.xml.feature_0.10.4.202102250843/">
+		</feature>
+		<feature id="org.eclipse.emf.ecore" version="2.24.0.v20210405-0628" url="features/org.eclipse.emf.ecore_2.24.0.v20210405-0628/">
+		</feature>
+		<feature id="org.eclipse.emf.common" version="2.22.0.v20210319-0732" url="features/org.eclipse.emf.common_2.22.0.v20210319-0732/">
+		</feature>
+		<feature id="org.eclipse.tm.terminal.view.feature" version="10.3.0.202105240430" url="features/org.eclipse.tm.terminal.view.feature_10.3.0.202105240430/" plugin-identifier="org.eclipse.tm.terminal.view.ui">
+		</feature>
+		<feature id="org.eclipse.jgit" version="5.12.0.202106070339-r" url="features/org.eclipse.jgit_5.12.0.202106070339-r/">
+		</feature>
+		<feature id="org.eclipse.tm.terminal.connector.telnet.feature" version="10.3.0.202104042017" url="features/org.eclipse.tm.terminal.connector.telnet.feature_10.3.0.202104042017/">
+		</feature>
+		<feature id="org.eclipse.tm.terminal.connector.ssh.feature" version="10.3.0.202104042017" url="features/org.eclipse.tm.terminal.connector.ssh.feature_10.3.0.202104042017/" plugin-identifier="org.eclipse.tm.terminal.connector.ssh">
+		</feature>
+		<feature id="org.eclipse.oomph.p2" version="1.20.0.v20210808-0939" url="features/org.eclipse.oomph.p2_1.20.0.v20210808-0939/">
+		</feature>
+		<feature id="org.eclipse.m2e.logback.feature" version="1.17.1.20210603-1006" url="features/org.eclipse.m2e.logback.feature_1.17.1.20210603-1006/" plugin-identifier="org.eclipse.m2e.logback.configuration">
+		</feature>
+		<feature id="org.eclipse.equinox.p2.user.ui" version="2.4.1200.v20210507-0825" url="features/org.eclipse.equinox.p2.user.ui_2.4.1200.v20210507-0825/">
+		</feature>
+		<feature id="org.eclipse.m2e.sse.ui.feature" version="1.18.0.20210603-1006" url="features/org.eclipse.m2e.sse.ui.feature_1.18.0.20210603-1006/">
+		</feature>
+		<feature id="org.eclipse.oomph.setup" version="1.22.0.v20210817-0806" url="features/org.eclipse.oomph.setup_1.22.0.v20210817-0806/">
+		</feature>
+		<feature id="org.eclipse.jgit.http.apache" version="5.12.0.202106070339-r" url="features/org.eclipse.jgit.http.apache_5.12.0.202106070339-r/">
+		</feature>
+		<feature id="org.eclipse.tips.feature" version="0.2.1400.v20210317-2216" url="features/org.eclipse.tips.feature_0.2.1400.v20210317-2216/">
+		</feature>
+		<feature id="org.eclipse.epp.mpc" version="1.9.1.v20210204-1408" url="features/org.eclipse.epp.mpc_1.9.1.v20210204-1408/" plugin-identifier="org.eclipse.epp.mpc.ui">
+		</feature>
+		<feature id="org.eclipse.tm.terminal.feature" version="10.3.0.202104042017" url="features/org.eclipse.tm.terminal.feature_10.3.0.202104042017/" plugin-identifier="org.eclipse.tm.terminal.view.core">
+		</feature>
+		<feature id="org.eclipse.e4.rcp" version="4.20.0.v20210602-2209" url="features/org.eclipse.e4.rcp_4.20.0.v20210602-2209/">
+		</feature>
+		<feature id="org.eclipse.ecf.filetransfer.httpclient45.feature" version="1.0.703.v20210512-0614" url="features/org.eclipse.ecf.filetransfer.httpclient45.feature_1.0.703.v20210512-0614/">
+		</feature>
+		<feature id="org.eclipse.epp.package.common.feature" version="4.20.0.20210612-1200" url="features/org.eclipse.epp.package.common.feature_4.20.0.20210612-1200/">
+		</feature>
+		<feature id="org.eclipse.platform" version="4.20.0.v20210611-1600" url="features/org.eclipse.platform_4.20.0.v20210611-1600/">
+		</feature>
+		<feature id="org.eclipse.epp.package.java.feature" version="4.20.0.20210612-1200" url="features/org.eclipse.epp.package.java.feature_4.20.0.20210612-1200/" plugin-identifier="org.eclipse.epp.package.java">
+		</feature>
+		<feature id="org.eclipse.help" version="2.3.600.v20210611-1600" url="features/org.eclipse.help_2.3.600.v20210611-1600/" plugin-identifier="org.eclipse.help.base">
+		</feature>
+		<feature id="org.eclipse.jgit.gpg.bc" version="5.12.0.202106070339-r" url="features/org.eclipse.jgit.gpg.bc_5.12.0.202106070339-r/">
+		</feature>
+		<feature id="org.eclipse.buildship" version="3.1.5.v20210113-0929" url="features/org.eclipse.buildship_3.1.5.v20210113-0929/" plugin-identifier="org.eclipse.buildship.branding">
+		</feature>
+		<feature id="org.eclipse.jgit.ssh.apache" version="5.12.0.202106070339-r" url="features/org.eclipse.jgit.ssh.apache_5.12.0.202106070339-r/">
+		</feature>
+		<feature id="org.eclipse.equinox.p2.extras.feature" version="1.4.1200.v20210507-0825" url="features/org.eclipse.equinox.p2.extras.feature_1.4.1200.v20210507-0825/">
+		</feature>
+		<feature id="org.eclipse.m2e.feature" version="1.18.0.20210603-1206" url="features/org.eclipse.m2e.feature_1.18.0.20210603-1206/" plugin-identifier="org.eclipse.m2e.core">
+		</feature>
+		<feature id="org.eclipse.oomph.setup.core" version="1.21.0.v20210817-0806" url="features/org.eclipse.oomph.setup.core_1.21.0.v20210817-0806/">
+		</feature>
+		<feature id="org.eclipse.equinox.p2.rcp.feature" version="1.4.1200.v20210507-0825" url="features/org.eclipse.equinox.p2.rcp.feature_1.4.1200.v20210507-0825/">
+		</feature>
+		<feature id="org.eclipse.ecf.core.ssl.feature" version="1.1.501.v20210409-2301" url="features/org.eclipse.ecf.core.ssl.feature_1.1.501.v20210409-2301/">
+		</feature>
+		<feature id="org.eclipse.egit" version="5.12.0.202106070339-r" url="features/org.eclipse.egit_5.12.0.202106070339-r/">
+		</feature>
+		<feature id="org.eclipse.tm.terminal.connector.local.feature" version="10.3.0.202105240430" url="features/org.eclipse.tm.terminal.connector.local.feature_10.3.0.202105240430/">
+		</feature>
+		<feature id="org.eclipse.mylyn.wikitext.editors_feature" version="3.0.38.202008172112" url="features/org.eclipse.mylyn.wikitext.editors_feature_3.0.38.202008172112/" plugin-identifier="org.eclipse.mylyn.wikitext">
+		</feature>
+		<feature id="org.eclipse.ecf.filetransfer.feature" version="3.14.1703.v20210409-2301" url="features/org.eclipse.ecf.filetransfer.feature_3.14.1703.v20210409-2301/">
+		</feature>
+		<feature id="org.eclipse.jdt" version="3.18.800.v20210611-1600" url="features/org.eclipse.jdt_3.18.800.v20210611-1600/">
+		</feature>
+		<feature id="org.eclipse.equinox.p2.discovery.feature" version="1.2.900.v20210418-1743" url="features/org.eclipse.equinox.p2.discovery.feature_1.2.900.v20210418-1743/">
+		</feature>
+		<feature id="org.eclipse.ecf.core.feature" version="1.5.702.v20210409-2301" url="features/org.eclipse.ecf.core.feature_1.5.702.v20210409-2301/">
+		</feature>
+		<feature id="org.eclipse.m2e.lemminx.feature" version="1.17.2.20210411-0929" url="features/org.eclipse.m2e.lemminx.feature_1.17.2.20210411-0929/">
+		</feature>
+		<feature id="org.eclipse.ecf.filetransfer.ssl.feature" version="1.1.401.v20210409-2301" url="features/org.eclipse.ecf.filetransfer.ssl.feature_1.1.401.v20210409-2301/">
+		</feature>
+		<feature id="org.eclipse.tm.terminal.control.feature" version="10.3.0.202105240049" url="features/org.eclipse.tm.terminal.control.feature_10.3.0.202105240049/" plugin-identifier="org.eclipse.tm.terminal.control">
+		</feature>
+		<feature id="org.eclipse.eclemma.feature" version="3.1.4.202012082030" url="features/org.eclipse.eclemma.feature_3.1.4.202012082030/" plugin-identifier="org.eclipse.eclemma.ui">
+		</feature>
+		<feature id="org.eclipse.rcp" version="4.20.0.v20210611-1600" url="features/org.eclipse.rcp_4.20.0.v20210611-1600/">
+		</feature>
+		<feature id="org.eclipse.equinox.p2.core.feature" version="1.6.1000.v20210507-0825" url="features/org.eclipse.equinox.p2.core.feature_1.6.1000.v20210507-0825/">
+		</feature>
+		<feature id="org.eclipse.userstorage" version="1.2.0.v20210517-0327" url="features/org.eclipse.userstorage_1.2.0.v20210517-0327/">
+		</feature>
+	</site>
+</config>
